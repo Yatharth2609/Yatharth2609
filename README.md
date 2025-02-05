@@ -1,3 +1,5 @@
+<img src="github_banner.jpeg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 👋 Hello! I am currently pursuing a degree in Computer Science and Engineering at GLA University, where I'm honing my skills and passion for technology.<br><br>💻 With a keen interest in web development and coding, I immerse myself in the dynamic world of programming languages and innovative tech solutions.<br><br>🚀 I thrive on challenges and see each obstacle as an opportunity to learn and grow. I'm committed to continuous learning, exploring new concepts, and enhancing my capabilities daily.<br><br>🤝 Working collaboratively is my forte—I excel both as a team player and a leader. I leverage my strengths in communication and problem-solving to efficiently lead teams toward shared goals, fostering an environment of productivity and synergy.<br>
 
