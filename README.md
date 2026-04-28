@@ -2,8 +2,6 @@
 
 <img src="Banner_2.png" alt="GitHub Banner" width="100%" />
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Software+Engineer+%E2%80%93+AI+%40+Capgemini+%F0%9F%87%AE%F0%9F%87%B3;Building+Agentic+AI+Systems+on+GCP;LangGraph+%C2%B7+FastAPI+%C2%B7+Vertex+AI;Shipping+real+systems+in+production.)](https://git.io/typing-svg)
 
 <br/>
@@ -34,7 +32,7 @@
 
 ⚡ &nbsp;Re-architected a system to Multi-Agent Supervisor pattern → **85% latency reduction**
 
-🏆 &nbsp;**GEM Award** recipient · Presented at Capgemini Bangalore Summit to CTO & international stakeholders
+🏆 &nbsp;**GEM Award** recipient · Presented at Capgemini Mumbai
 
 </td>
 <td valign="top" width="50%">
@@ -43,9 +41,9 @@
 
 🌐 &nbsp;**Stack of choice:** LangGraph · FastAPI · Vertex AI · GCP
 
-💪 &nbsp;Running a **Gym & Fitness YouTube channel** on the side
+💪 &nbsp;Running a **Blog Website** on the side
 
-🧩 &nbsp;**550+ DSA problems** solved on LeetCode & GeeksForGeeks
+🧩 &nbsp;**800+ DSA problems** solved on LeetCode & GeeksForGeeks
 
 </td>
 </tr>
