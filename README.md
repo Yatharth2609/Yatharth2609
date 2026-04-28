@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Software+Engineer+%E2%80%93+AI+%40+Capgemini+%F0%9F%87%AE%F0%9F%87%B3;Building+Agentic+AI+Systems+on+GCP;LangGraph+%C2%B7+FastAPI+%C2%B7+Vertex+AI;Shipping+real+systems+in+production.)](https://git.io/typing-svg)
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-mishra-03429a18b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YatharthM2609)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yatharth_m1226)
